@@ -1,0 +1,5 @@
+C:\Users\klaho\OneDrive\Documents\Projects\TehnologiiWeb\FaceMaze\Data\bin\Debug\Data.dll
+C:\Users\klaho\OneDrive\Documents\Projects\TehnologiiWeb\FaceMaze\Data\bin\Debug\Data.pdb
+C:\Users\klaho\OneDrive\Documents\Projects\TehnologiiWeb\FaceMaze\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\klaho\OneDrive\Documents\Projects\TehnologiiWeb\FaceMaze\Data\obj\Debug\Data.dll
+C:\Users\klaho\OneDrive\Documents\Projects\TehnologiiWeb\FaceMaze\Data\obj\Debug\Data.pdb
